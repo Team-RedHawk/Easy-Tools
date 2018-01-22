@@ -18,13 +18,14 @@ How to download:
 
 How to unpack system.new.dat to folder system:
 
-1. First of all we must place in the root of Easy-Tools the files of the 
+First of all we must place in the root of Easy-Tools the files of the 
 rom as they are:
 
 * system.transfer.list
 * system.new.dat
 * system.patch.dat
-2. Open a terminal inside Easy-Tools:
+
+Open a terminal inside Easy-Tools:
 
 	$ ./unpack.sh
 
@@ -35,7 +36,7 @@ system will be found already extracted.
 
 How to pack folder system to system.new.dat:
 
-1. Enter next command:
+Enter next command:
 
 	$ ./repack.sh
 
