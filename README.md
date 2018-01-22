@@ -24,7 +24,7 @@ rom as they are:
 * system.transfer.list
 * system.new.dat
 * system.patch.dat
-2. Open a terminal inside Easy-Tools
+2. Open a terminal inside Easy-Tools:
 
 	$ ./unpack.sh
 
